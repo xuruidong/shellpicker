@@ -1,0 +1,15 @@
+venv
+build
+dist
+__pycache__
+.DS_Store
+
+# runtime data & secrets
+shanbay.db
+shanbay_config.json
+book_*.json
+book_*.txt
+words.txt
+export/
+today_learning_items.*
+decoded_blob.json
